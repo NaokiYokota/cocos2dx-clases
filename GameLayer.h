@@ -2,7 +2,7 @@
 //  GameLayer.h
 //  MyProject2
 //
-//  Created by 横田 直輝 on 2014/05/30.
+//  Created by albatrus on 2014/05/30.
 //
 //
 
