@@ -35,5 +35,7 @@ bool GameLayer::init(){
     auto bg = LayerColor::create(Color4B(0, 128, 64, 255), winSize.width, winSize.height);
     this->addChild(bg);
     
+    
+    
     return true;
 }
